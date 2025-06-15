@@ -1,7 +1,11 @@
 # Video Game Sales Analysis
 
 ## Overview
+<<<<<<< HEAD
 This project is about video games sales, my inital hobby. What is the overview of the video game industry? By performing a data analysis using Python, this project aims to provide valuable insights about how the game industry has been evolved, about the big picture of the industry in terms of market shares and sales.
+=======
+This project is about video games sales, my inital hobby. What is the overview of the video games market and what is the most popular game? By performing a data analysis using Python, this project aims to provide valuable insights that can help game studios be informed about the video games market and how to allocate resources to maximize the chances of success of their games.
+>>>>>>> EDA
 
 ## Features
 - **Data Cleaning**: Handle missing values and standardize data formats.
@@ -40,4 +44,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For questions or feedback, please contact [your-email@example.com].
+For questions or feedback, please contact hoangduckhang2408@gmail.com
