@@ -1,7 +1,7 @@
 # Video Game Sales Analysis
 
 ## Overview
-This project is about video games sales, my inital hobby. What are the factors contributing to the success of a video game? By performing a data analysis using Python, this project aims to provide valuable insights that can help game studios make more informed decisions about which movies to produce, which companies to partner with, and how to allocate resources to maximize the chances of success.
+This project is about video games sales, my inital hobby. What is the overview of the video games market and what is the most popular game? By performing a data analysis using Python, this project aims to provide valuable insights that can help game studios be informed about the video games market and how to allocate resources to maximize the chances of success of their games.
 
 ## Features
 - **Data Cleaning**: Handle missing values and standardize data formats.
@@ -13,7 +13,6 @@ This project is about video games sales, my inital hobby. What are the factors c
 - **Python**: Data analysis and visualization.
 - **Pandas**: Data manipulation.
 - **Matplotlib & Seaborn**: Data visualization.
-- **Scikit-learn**: Machine learning models.
 
 
 ## Dataset
@@ -35,4 +34,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For questions or feedback, please contact [your-email@example.com].
+For questions or feedback, please contact hoangduckhang2408@gmail.com
